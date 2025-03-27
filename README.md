@@ -1,4 +1,4 @@
-## 왜 보러왔슈 👋
+## 왜 보러왔슈 ?
 
 <!--
 **JiWoo1261/JiWoo1261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
